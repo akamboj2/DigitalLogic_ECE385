@@ -1,0 +1,27 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/18.1/2Bit_Adder/adder2_tmp_archive.qarlog
+
+Archive:	C:/intelFPGA_lite/18.1/2Bit_Adder/adder2_tmp_archive.qar
+Date:		Fri Feb 14 09:12:56 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA_lite/18.1/2Bit_Adder/HexDriver.sv
+C:/intelFPGA_lite/18.1/2Bit_Adder/adder2.qpf
+C:/intelFPGA_lite/18.1/2Bit_Adder/adder2.qsf
+C:/intelFPGA_lite/18.1/2Bit_Adder/adder2.sv
+C:/intelFPGA_lite/18.1/2Bit_Adder/carry_lookahead_adder.sv
+C:/intelFPGA_lite/18.1/2Bit_Adder/carry_select_adder.sv
+C:/intelFPGA_lite/18.1/2Bit_Adder/lab4_adders_toplevel.sv
+C:/intelFPGA_lite/18.1/2Bit_Adder/ripple_adder.sv
+C:/intelFPGA_lite/18.1/2Bit_Adder/testbench.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Feb 14 09:13:00 2020
+Source archive file:	C:/intelFPGA_lite/18.1/2Bit_Adder/adder2_tmp_archive.qar
+Archive was extracted into	D:/ABH/akamboj2 arjung2/
+		 - successfully.
