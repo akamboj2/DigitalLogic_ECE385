@@ -1,0 +1,27 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/ECE_385/Lab5_tmp_archive.qarlog
+
+Archive:	C:/intelFPGA_lite/ECE_385/Lab5_tmp_archive.qar
+Date:		Fri Feb 21 09:01:20 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA_lite/18.1/2Bit_Adder/HexDriver.sv
+C:/intelFPGA_lite/ECE_385/DFF.sv
+C:/intelFPGA_lite/ECE_385/FA8Bit.sv
+C:/intelFPGA_lite/ECE_385/FSM.sv
+C:/intelFPGA_lite/ECE_385/Lab5.qpf
+C:/intelFPGA_lite/ECE_385/Lab5.qsf
+C:/intelFPGA_lite/ECE_385/Lab5_toplvl.sv
+C:/intelFPGA_lite/ECE_385/shiftRegister.sv
+C:/intelFPGA_lite/ECE_385/testbench.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Feb 21 09:01:23 2020
+Source archive file:	C:/intelFPGA_lite/ECE_385/Lab5_tmp_archive.qar
+Archive was extracted into	D:/ABH/akamboj2 arjung2/
+		 - successfully.

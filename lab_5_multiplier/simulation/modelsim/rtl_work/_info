@@ -1,0 +1,241 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/lab_5_multiplier/simulation/modelsim
+vDreg
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1582949990
+!i10b 1
+!s100 6]ESQmQYUkTZ2BBHzTli>2
+I>2_N;X4W[cKEf3i[f<oWh3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 DFF_sv_unit
+S1
+R0
+w1582284675
+8C:/intelFPGA_lite/lab_5_multiplier/DFF.sv
+FC:/intelFPGA_lite/lab_5_multiplier/DFF.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1582949989.000000
+!s107 C:/intelFPGA_lite/lab_5_multiplier/DFF.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/lab_5_multiplier|C:/intelFPGA_lite/lab_5_multiplier/DFF.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/intelFPGA_lite/lab_5_multiplier
+Z8 tCvgOpt 0
+n@dreg
+vFA8Bit
+R1
+Z9 !s110 1582949989
+!i10b 1
+!s100 YUd_RacgB49W4=1SLGMT;2
+IPDHFW]69PlggIQ6QHZXMY2
+R3
+Z10 !s105 FA8Bit_sv_unit
+S1
+R0
+Z11 w1582281207
+Z12 8C:/intelFPGA_lite/lab_5_multiplier/FA8Bit.sv
+Z13 FC:/intelFPGA_lite/lab_5_multiplier/FA8Bit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+Z14 !s107 C:/intelFPGA_lite/lab_5_multiplier/FA8Bit.sv|
+Z15 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/lab_5_multiplier|C:/intelFPGA_lite/lab_5_multiplier/FA8Bit.sv|
+!i113 1
+R6
+R7
+R8
+n@f@a8@bit
+vfour_bit_ra
+R1
+R9
+!i10b 1
+!s100 =73j0@a;MK=iWKU<e=A6P2
+I;H4gdLAkBOWm>CYeQi6Wz1
+R3
+R10
+S1
+R0
+R11
+R12
+R13
+L0 37
+R4
+r1
+!s85 0
+31
+R5
+R14
+R15
+!i113 1
+R6
+R7
+R8
+vFSM
+R1
+R9
+!i10b 1
+!s100 3TeMPOEQTbTMK>Ze6o_Hm1
+IE9o1Kocd8I3mBTXbL=4692
+R3
+!s105 FSM_sv_unit
+S1
+R0
+w1582296976
+8C:/intelFPGA_lite/lab_5_multiplier/FSM.sv
+FC:/intelFPGA_lite/lab_5_multiplier/FSM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/intelFPGA_lite/lab_5_multiplier/FSM.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/lab_5_multiplier|C:/intelFPGA_lite/lab_5_multiplier/FSM.sv|
+!i113 1
+R6
+R7
+R8
+n@f@s@m
+vfull_adder
+R1
+R9
+!i10b 1
+!s100 Ym0ef7bGAjLb?ECZTHYBY0
+Imid>RaL5c_^7bidMm54kW2
+R3
+R10
+S1
+R0
+R11
+R12
+R13
+L0 30
+R4
+r1
+!s85 0
+31
+R5
+R14
+R15
+!i113 1
+R6
+R7
+R8
+vHexDriver
+R1
+R9
+!i10b 1
+!s100 =R2i165HPJgkY;aA[TRmG3
+IHR7hZgWD<I6mBd`cOD]lj2
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1581656212
+8C:/intelFPGA_lite/18.1/2Bit_Adder/HexDriver.sv
+FC:/intelFPGA_lite/18.1/2Bit_Adder/HexDriver.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/intelFPGA_lite/18.1/2Bit_Adder/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/18.1/2Bit_Adder|C:/intelFPGA_lite/18.1/2Bit_Adder/HexDriver.sv|
+!i113 1
+R6
+!s92 -sv -work work +incdir+C:/intelFPGA_lite/18.1/2Bit_Adder
+R8
+n@hex@driver
+vLab5_toplvl
+R1
+R2
+!i10b 1
+!s100 OEDSA[mn[353=1i4gRcf=1
+IW;7m6Vjg:4YCKlB=TQ;Ld1
+R3
+!s105 Lab5_toplvl_sv_unit
+S1
+R0
+w1582296435
+8C:/intelFPGA_lite/lab_5_multiplier/Lab5_toplvl.sv
+FC:/intelFPGA_lite/lab_5_multiplier/Lab5_toplvl.sv
+L0 2
+R4
+r1
+!s85 0
+31
+Z16 !s108 1582949990.000000
+!s107 C:/intelFPGA_lite/lab_5_multiplier/Lab5_toplvl.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/lab_5_multiplier|C:/intelFPGA_lite/lab_5_multiplier/Lab5_toplvl.sv|
+!i113 1
+R6
+R7
+R8
+n@lab5_toplvl
+vshiftRegister
+R1
+R9
+!i10b 1
+!s100 :gU=I_VAaD`MZoj<M3<z<0
+Ik;`9lUCgTiWzADk1cZ^850
+R3
+!s105 shiftRegister_sv_unit
+S1
+R0
+w1582274059
+8C:/intelFPGA_lite/lab_5_multiplier/shiftRegister.sv
+FC:/intelFPGA_lite/lab_5_multiplier/shiftRegister.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/intelFPGA_lite/lab_5_multiplier/shiftRegister.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/lab_5_multiplier|C:/intelFPGA_lite/lab_5_multiplier/shiftRegister.sv|
+!i113 1
+R6
+R7
+R8
+nshift@register
+vtestbench
+R1
+R2
+!i10b 1
+!s100 M5mjlW[`DU80LYPY`BX]g3
+I3cHTV^0z7gV2MRVSA]Cbh2
+R3
+!s105 testbench_sv_unit
+S1
+R0
+w1582949899
+8C:/intelFPGA_lite/lab_5_multiplier/testbench.sv
+FC:/intelFPGA_lite/lab_5_multiplier/testbench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/intelFPGA_lite/lab_5_multiplier/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/lab_5_multiplier|C:/intelFPGA_lite/lab_5_multiplier/testbench.sv|
+!i113 1
+R6
+R7
+R8
